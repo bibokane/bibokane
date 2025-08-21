@@ -10,8 +10,7 @@ Currently pursuing a **Professional Software Engineering program** at *Wilhelm B
 ## 🔥 About Me  
 - 🌍 Based in Karlsruhe, Germany  
 - 🎯 Career Goal: Contribute to innovative software solutions in a modern, agile team  
-- 💡 Passionate about **Java, Spring Boot, React, and Cloud Technologies**  
-- 📂 Check out my portfolio of projects here 👉 [GitHub Projects](https://github.com/bibokane)  
+- 💡 Passionate about **Java, Spring Boot, React, Full-Stack and Cloud Technologies**   
 
 ---
 
