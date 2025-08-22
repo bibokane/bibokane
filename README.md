@@ -85,8 +85,8 @@ Currently pursuing a **Professional Software Engineering program** at *Wilhelm B
 
 ## 📫 Connect with Me  
 - ✉️ Email: **bibokane@gmail.com**  
-- 💼 LinkedIn: *(add your LinkedIn link here if you have one)*  
-- 🌐 Portfolio Website: *(optional – if you’d like me to design one, I can help)*  
+- 💼 LinkedIn: [linkedin.com/in/habibkane](https://www.linkedin.com/in/habib-kane-524205320/)  
+- 🌐 Portfolio Website: [www.habibkane.dev](https://www.habibkane.dev)  
 
 ---
 
